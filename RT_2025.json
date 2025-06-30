@@ -1,8 +1,10 @@
 {
+  "pluses":{
   "noche": 30.84,
   "tarde": 13.00,
   "festivo": 140.00,
   "semanasanta": 454.16,
   "sd": 56.54,
   "horasextras": 39.27
+}
 }
