@@ -1,10 +1,47 @@
 {
+  "year": 2025,
+  "profile": "Tec",
   "pluses": {
     "noche": 30.84,
     "tarde": 13.00,
+    "sd": 56.54,
     "festivo": 140.00,
     "semanasanta": 409.28,
-    "sd": 56.54,
     "horasextras": 33.66
+  },
+  "salary_settings": {
+    "fixed_concepts": {
+      "salarioBase": 2391.07,
+      "plusAsistencia": 122.48,
+      "plusPeligrosidad": 188.10,
+      "plusDisponibilidad": 22.54,
+      "plusTurnos": 89.75,
+      "plusNoAbsentismo": 51.42,
+      "plusEmpresa": 0.00,
+      "plusResponsable": 0.00
+    },
+    "insurance_and_credits": {
+      "seguroVida": {
+        "cantidad": "0",
+        "importe": 8.17
+      },
+      "seguroSalud": {
+        "cantidad": "0",
+        "importe": 52.45
+      },
+      "seguroAccidente": {
+        "cantidad": "0",
+        "importe": 4.30
+      },
+      "creditoPersonal": 0.00,
+      "seguroAccCotiz": 1.49
+    },
+    "retentions": {
+      "hhee": 0.05,
+      "trabContComunes": 0.0483,
+      "trabDesempleo": 0.0155,
+      "trabFormacProf": 0.001,
+      "irpf": 20.50
+    }
   }
 }
