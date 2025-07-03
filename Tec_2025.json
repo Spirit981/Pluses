@@ -22,15 +22,15 @@
     },
     "insurance_and_credits": {
       "seguroVida": {
-        "cantidad": "0",
+        "cantidad": 0,
         "importe": 8.17
       },
       "seguroSalud": {
-        "cantidad": "0",
+        "cantidad": 0,
         "importe": 52.45
       },
       "seguroAccidente": {
-        "cantidad": "0",
+        "cantidad": 0,
         "importe": 4.30
       },
       "creditoPersonal": 0.00,
