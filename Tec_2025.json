@@ -37,10 +37,10 @@
       "seguroAccCotiz": 1.49
     },
     "retentions": {
-      "hhee": 0.05,
-      "trabContComunes": 0.0483,
-      "trabDesempleo": 0.0155,
-      "trabFormacProf": 0.001,
+      "hhee": 4.7,
+      "trabContComunes": 4.83,
+      "trabDesempleo": 1.55,
+      "trabFormacProf": 0.1,
       "irpf": 20.50
     }
   }
