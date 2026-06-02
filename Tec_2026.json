@@ -2,22 +2,22 @@
   "year": 2026,
   "profile": "Tec",
   "pluses": {
-    "noche": 30.84,
-    "tarde": 13.00,
-    "sd": 56.54,
-    "festivo": 140.00,
-    "semanasanta": 409.28,
-    "horasextras": 33.66
+    "noche": 33,
+    "tarde": 15.00,
+    "sd": 58.12,
+    "festivo": 144.06,
+    "semanasanta": 421.15,
+    "horasextras": 34.64
   },
   "salary_settings": {
     "fixed_concepts": {
-      "salarioBase": 2391.07,
-      "plusAsistencia": 122.48,
-      "plusPeligrosidad": 188.10,
-      "plusDisponibilidad": 22.54,
-      "plusTurnos": 89.75,
-      "plusNoAbsentismo": 51.42,
-      "plusEmpresa": 0.00,
+      "salarioBase": 2460.41,
+      "plusAsistencia": 126.03,
+      "plusPeligrosidad": 193.55,
+      "plusDisponibilidad": 23.19,
+      "plusTurnos": 92.35,
+      "plusNoAbsentismo": 52.91,
+      "plusEmpresa": 35.00,
       "plusResponsable": 0.00,
       "extraDia": 14.7460
     },
