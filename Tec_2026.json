@@ -4,7 +4,7 @@
   "pluses": {
     "noche": 33,
     "tarde": 15.00,
-    "sd": 58.12,
+    "sd": 58.17,
     "festivo": 144.06,
     "semanasanta": 421.15,
     "horasextras": 34.64
@@ -13,10 +13,10 @@
     "fixed_concepts": {
       "salarioBase": 2460.41,
       "plusAsistencia": 126.03,
-      "plusPeligrosidad": 193.55,
+      "plusPeligrosidad": 193.45,
       "plusDisponibilidad": 23.19,
       "plusTurnos": 92.35,
-      "plusNoAbsentismo": 52.91,
+      "plusNoAbsentismo": 52.90,
       "plusEmpresa": 35.00,
       "plusResponsable": 0.00,
       "extraDia": 15.37
@@ -39,7 +39,7 @@
     },
     "retentions": {
       "hhee": 4.7,
-      "trabContComunes": 4.83,
+      "trabContComunes": 4.85,
       "trabDesempleo": 1.55,
       "trabFormacProf": 0.1,
       "irpf": 20.50
